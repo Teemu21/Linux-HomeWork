@@ -1,2 +1,0 @@
-bash-completion:
-  pkg.installed
